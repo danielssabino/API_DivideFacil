@@ -60,7 +60,7 @@ $autoload['packages'] = array();
 */
 $autoload['libraries'] = array('database'
 								,'table'
-								,'session'
+								//,'session'
 								,'form_validation'
 								//,'format'
 								//,'REST_Controller'
